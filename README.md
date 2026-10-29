@@ -1,16 +1,14 @@
-## Hi there 👋
+### Olá, sou o Gustavo 👋
 
-<!--
-**Pirond1/Pirond1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor backend Python na **Bevi**, onde trabalho no **BevIAjuda**, um assistente de IA
+com RAG (OpenAI, Cohere, Pinecone) e orquestração de agentes em LangGraph.
 
-Here are some ideas to get you started:
+Formando em Sistemas de Informação (Toledo Prudente, dez/2026) · ISTQB CTFL 4.0
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Projetos em destaque**
+- [Berê Gestão](https://github.com/Pirond1/Bere_Gestao): e-commerce e gestão para confeitaria (FastAPI + React PWA)
+- [Gerenciador-Software](https://github.com/Pirond1/Gerenciador-Software): gestão de projeto em grupo (FastAPI)
+
+**Stack:** Python · FastAPI · SQLAlchemy · MySQL · LangGraph · LangChain · Docker · React
+
+📫 [LinkedIn](https://www.linkedin.com/in/gustavopirondi/) · gustavopirondi@gmail.com
